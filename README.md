@@ -1,2 +1,2 @@
-# UNCC-MBC-Project1-Repo
-UNCC AI Micro Bootcamp Project 1
+# UNCC-MBC-Project-Repo
+UNCC AI Micro Bootcamp Project 
